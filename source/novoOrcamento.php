@@ -29,7 +29,7 @@
     <head>
 
         <meta charset="utf-8" />
-        <title>Destak | Orçamento</title>
+        <title>Mobile | Orçamento</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- App favicon -->
         <link rel="shortcut icon" href="assets/images/fav.png">
@@ -295,7 +295,7 @@ assinatura deste contrato.
                                             </div>
                                         </div>
                                         <h6>
-                                        CNPJ: 24.774.573/0001-30<br>
+                                        CNPJ: XXXXXXX<br>
                                         END. RUA IRES VIANA, Nº 201<br>
                                         LOT. ADAUTO FROTA - PROX AO
                                         AEROPORTO<br>
@@ -305,7 +305,7 @@ assinatura deste contrato.
 
 
                                         Contrato de compra e venda que fazem entre si o vendedor Francisco Jucá de Sousa,<br>
-                                        CNPJ: 24.774.573/0001-30, residente na Rua Iris Viana, nº 201 ­ Lot. Adauto Frota,
+                                        CNPJ: XXXXXX, residente na Rua Iris Viana, nº 201 ­ Lot. Adauto Frota,
                                         Rio Branco AC <br>e o comprador <span id="compName">_______________________________________________________</span>,
                                         CPF: <span id="compCPF">___________________________________</span>,<br>
                                         residente na Rua <span id="compRua">_______________________________________________</span>,nº <span id="compNum">____________</span>,<br>
