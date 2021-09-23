@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
 RewriteEngine on
-RewriteBase /aula/
+RewriteBase /
 
 
 RewriteRule ^/?$ index.php?m=dashboard [L]
