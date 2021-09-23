@@ -1,0 +1,20 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /aula/
+
+
+RewriteRule ^/?$ index.php?m=dashboard [L]
+RewriteRule ^materiais?$ index.php?m=materiais [L]
+RewriteRule ^novo_orcamento?$ index.php?m=novo_orcamento [L]
+RewriteRule ^ver?$ index.php?m=ver [L]
+
+
+</IfModule>
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+Options -Indexes
+
