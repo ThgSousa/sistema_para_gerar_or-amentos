@@ -13,7 +13,7 @@ Inclui:
 Sujestoes para futuros updates:
   Adicionar capcha para evitar spam.
   Formularios em ajax.
-  
+  Implementar token csrf.
 
 Tutorialzinho
   1 - ALTERAR O ARQUIVO htaccess para .htaccess, sim precisa somente adicionar esse ponto antes do nome <br>
